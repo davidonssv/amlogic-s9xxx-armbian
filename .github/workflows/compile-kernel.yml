@@ -69,7 +69,7 @@ on:
         type: choice
         options:
           - -ophub
-          - -yourname
+          - -davidonssv
 
 env:
   TZ: America/New_York
